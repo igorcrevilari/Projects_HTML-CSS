@@ -2,7 +2,7 @@
 
 Os projetos nesta pasta foram criados durante meu aprendizado com HTML e CSS, em testes sozinho com a máquina utilizando VScode ou em acompanhamento de cursos.
 <br><br>
-Separei nesta pasta apenas os de HTML e CSS, pois já que estou começando, fica mais fácil de caracterizar e ordenar. Alguns desses são mais simples, outros já possuem mais observações e demandaram um conhecimento maior em CSS, principalmente.
+Separei nesta pasta os projetos iniciais, pois já que estou começando, fica mais fácil de caracterizar e ordenar. Alguns desses são mais simples, outros já possuem mais observações e demandaram um conhecimento maior em CSS, principalmente.
 <br><br>
 Segue abaixo algumas screenshots dos conteúdos em pasta:
 <br><br>
