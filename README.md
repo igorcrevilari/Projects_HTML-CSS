@@ -1,16 +1,16 @@
-# — Sobre os Projetos... 🖥️
+# — About the Projects... 🖥️
 
-Os projetos nesta pasta foram criados durante meu aprendizado com HTML e CSS, em testes sozinho com a máquina utilizando VScode ou em acompanhamento de cursos.
+The projects in this folder were created during my learning of courses with HTML and CSS, in tests alone with the use of tracking machines.
 <br><br>
-Separei nesta pasta os projetos iniciais, pois já que estou começando, fica mais fácil de caracterizar e ordenar. Alguns desses são mais simples, outros já possuem mais observações e demandaram um conhecimento maior em CSS, principalmente.
+Separate the initial projects in this folder, as they are already being designed and it is easier to characterize. Some of these are simpler, others already have more observations and require a greater knowledge of CSS, mainly.
 <br><br>
-Segue abaixo algumas screenshots dos conteúdos em pasta:
+Below are some screenshots of the contents in the folder:
 <br><br>
 
 
 
 <hr>
-<h1> — SITE FINANCEIRO... 💰 </h1>
+<h1> — FINANCIAL WEBSITE... 💰 </h1>
 <br>
 
 ![site_finan1](https://user-images.githubusercontent.com/72578580/169444256-ddd3a6df-bc5e-4723-aef0-414615d11448.PNG)
@@ -23,7 +23,7 @@ Segue abaixo algumas screenshots dos conteúdos em pasta:
 
 
 <hr>
-<h1> — SITE CBF... ⚽ </h1>
+<h1> — CBF WEBSITE... ⚽ </h1>
 <br>
 
 ![site_CBF](https://user-images.githubusercontent.com/72578580/169444669-945c4adf-ba0d-4ef2-ae9d-8f53dc11614c.PNG)
@@ -34,7 +34,7 @@ Segue abaixo algumas screenshots dos conteúdos em pasta:
 
 
 <hr>
-<h1> — CÓPIA SPOTIFY... 💚 </h1>
+<h1> — SPOTIFY COPY... 💚 </h1>
 <br>
 
 ![site_spot1](https://user-images.githubusercontent.com/72578580/169444509-e4e27d7c-0cc8-404d-9cd7-02663c5c6bce.PNG)
